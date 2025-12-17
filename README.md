@@ -34,12 +34,6 @@ The stakeholders wanted to understand:
     *   `Profit Margin %` (DIVIDE)
     *   `Returns Rate %`
 
-## 📂 Data Source
-I used the *Global Superstore* dataset for this project. You can access the raw files here:
-*   📂 [Orders Table](./Dataset/Orders.csv)
-*   📂 [Returns Table](./Dataset/Returns.csv)
-*   📂 [People Table](./Dataset/People.csv)
-
 ## 🔍 Key Insights & Findings
 1.  **Business Health:** The company generated **$2.12M in Net Revenue** with a **12% Profit Margin**.
 2.  **Product Performance:** The *Canon imageCLASS* copier is the top revenue generator ($47.6K), significantly outperforming other items.
@@ -51,6 +45,12 @@ I used the *Global Superstore* dataset for this project. You can access the raw 
 *   `FUTURE_DS_01.pbix` - The Power BI file containing the dashboard and data model.
 *   `dashboard_screenshot.png` - Preview of the final report.
 *   `Dataset/` - Folder containing the raw CSV files.
+
+## 📂 Data Source
+I used the *Global Superstore* dataset for this project. You can access the raw files here:
+*   📂 [Orders Table](./Dataset/Orders.csv)
+*   📂 [Returns Table](./Dataset/Returns.csv)
+*   📂 [People Table](./Dataset/People.csv)
 
 ## 🚀 How to Use
 1.  Download `FUTURE_DS_01.pbix`.
