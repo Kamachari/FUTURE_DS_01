@@ -1,7 +1,7 @@
 # 📊 Final Sales Analysis Dashboard - Global Superstore
 
 ![Power BI](https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
-![Excel](https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
+![Excel](https://github.com/Kamachari/FUTURE_DS_01/blob/main/Sample%20-%20Superstore%20-Final.xlsx)
 
 ## 📸 Dashboard Preview
 ![Dashboard Screenshot](dashboard_screenshot.png)
