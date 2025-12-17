@@ -47,15 +47,15 @@ I used the *Global Superstore* dataset for this project. You can access the raw 
 5.  **Growth:** Revenue shows a consistent Year-over-Year growth trend, peaking in 2017.
 
 ## 📂 Project Structure
-*   `Superstore_Sales_Analysis.pbix` - The Power BI file containing the dashboard and data model.
+*   `FUTURE_DS_01.pbix` - The Power BI file containing the dashboard and data model.
 *   `dashboard_screenshot.png` - Preview of the final report.
-*   `data/` - (Optional) Folder containing the raw CSV files.
+*   `Dataset/` - Folder containing the raw CSV files.
 
 ## 🚀 How to Use
-1.  Download `Superstore_Sales_Analysis.pbix`.
+1.  Download `FUTURE_DS_01.pbix`.
 2.  Open the file in **Microsoft Power BI Desktop**.
 3.  Interact with the slicers (Year, Region, Segment) to filter the data.
 4.  Hover over charts to see custom tooltips with detailed metrics.
 
 ---
-*Created by [Your Name]*
+*Created by B Kamachari*
