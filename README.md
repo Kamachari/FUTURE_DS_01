@@ -1,3 +1,4 @@
+
 # 📊 Final Sales Analysis Dashboard - Global Superstore
 
 ![Power BI](https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
@@ -58,5 +59,8 @@ I used the *Global Superstore* dataset for this project. You can access the raw 
 4.  Hover over charts to see custom tooltips with detailed metrics.
 
 ---
-*Created by*
-# B Kamachari 
+## 📬 Contact
+Created by **B Kamachari** - Feel free to reach out!
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/buragapalli-kamachari-931624269/)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:kamachariburagapalli@gmail.com)
