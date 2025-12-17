@@ -58,4 +58,5 @@ I used the *Global Superstore* dataset for this project. You can access the raw 
 4.  Hover over charts to see custom tooltips with detailed metrics.
 
 ---
-*Created by* # B Kamachari
+*Created by*
+# B Kamachari 
