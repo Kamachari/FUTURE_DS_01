@@ -34,12 +34,33 @@ The stakeholders wanted to understand:
     *   `Profit Margin %` (DIVIDE)
     *   `Returns Rate %`
 
-## 🔍 Key Insights & Findings
-1.  **Business Health:** The company generated **$2.12M in Net Revenue** with a **12% Profit Margin**.
-2.  **Product Performance:** The *Canon imageCLASS* copier is the top revenue generator ($47.6K), significantly outperforming other items.
-3.  **Category Trends:** **Technology** accounts for the largest share of sales (36%), followed by Furniture and Office Supplies.
-4.  **Geographic Profitability:** While sales volume is high across the US, certain states show **negative profit margins** (indicated by red/orange bubbles on the map), suggesting operational inefficiencies in those regions.
-5.  **Growth:** Revenue shows a consistent Year-over-Year growth trend, peaking in 2017.
+## 📊 Business Insights
+### 1. Growth & Seasonality
+*   **Trend:** The business is trending upward, with **2017 being the peak performance year**.
+*   **Seasonality:** Sales consistently spike in **Q4 (Nov-Dec)**, driven by holiday demand.
+*   **Action:** Inventory planning needs to account for a 30-40% surge in demand during these months to prevent stockouts.
+
+### 2. Product Performance
+*   **The "Hero" Product:** The *Canon imageCLASS Copier* is the #1 revenue driver ($47.6K).
+*   **Category Analysis:** **Technology** generates the highest sales (36%) and healthy margins. Conversely, **Furniture** drives volume but suffers from low margins due to high shipping costs.
+
+### 3. Geographic Profitability ("The Red Bubble" Issue)
+*   **Observation:** While sales volume is high in states like **Texas, Ohio, and Pennsylvania**, these regions are generating **negative profit**.
+*   **Hypothesis:** High shipping costs for bulky items or excessive local discounts are eating into margins.
+
+---
+
+## 💡 Strategic Recommendations
+Based on the analysis, I recommend the following actions to improve profitability:
+
+1.  **🛑 Stop the Bleeding in Unprofitable Regions:**
+    *   Review shipping policies for Texas and Ohio. Consider removing "Free Shipping" for heavy furniture items in these specific zones to restore positive margins.
+
+2.  **📦 Q4 Inventory Optimization:**
+    *   Increase stock levels of Top 10 Technology products by October to maximize revenue during the holiday rush.
+
+3.  **↩️ Reduce Returns Impact:**
+    *   With $180K in lost revenue due to returns, implement a feedback loop with the warehouse to check for packaging improvements on frequently returned items.
 
 ## 📂 Project Structure
 *   `FUTURE_DS_01.pbix` - The Power BI file containing the dashboard and data model.
