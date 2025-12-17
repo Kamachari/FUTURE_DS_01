@@ -1,7 +1,7 @@
 # 📊 Final Sales Analysis Dashboard - Global Superstore
 
 ![Power BI](https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
-![Excel](https://github.com/Kamachari/FUTURE_DS_01/blob/main/Sample%20-%20Superstore%20-Final.xlsx)
+![Excel](https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
 
 ## 📸 Dashboard Preview
 ![Dashboard Screenshot](dashboard_screenshot.png)
@@ -32,6 +32,12 @@ The stakeholders wanted to understand:
     *   `Net Profit` (SUM)
     *   `Profit Margin %` (DIVIDE)
     *   `Returns Rate %`
+
+## 📂 Data Source
+I used the *Global Superstore* dataset for this project. You can access the raw files here:
+*   📂 [Orders Table](./Dataset/Orders.csv)
+*   📂 [Returns Table](./Dataset/Returns.csv)
+*   📂 [People Table](./Dataset/People.csv)
 
 ## 🔍 Key Insights & Findings
 1.  **Business Health:** The company generated **$2.12M in Net Revenue** with a **12% Profit Margin**.
