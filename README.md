@@ -14,8 +14,8 @@ This project analyzes sales data from a global "Superstore" to identify business
 **Key Focus:** Ensuring data accuracy by calculating **Net Sales** (excluding returned items) to provide a realistic view of revenue.
 
 ## 📄 Project Documentation
-*   **[Download Full Executive Report (PDF)](./Global Superstore Analysis.pdf)** - A detailed breakdown of findings and strategies.
-
+*   **[Download Full Executive Report (PDF)](./Global%20Superstore%20Analysis.pdf)** - A detailed breakdown of findings and strategies.
+  
 ## ❓ Business Problem
 The stakeholders wanted to understand:
 1. **Real Revenue:** How much money are we actually making after refunds?
