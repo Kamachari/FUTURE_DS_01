@@ -77,7 +77,7 @@ I used the *Global Superstore* dataset for this project. You can access the raw 
 *   📂 [People Table](./Dataset/People.csv)
 
 ## 🚀 How to Use
-1.  Download `FUTURE_DS_01.pbix`.
+1.  Download **[FUTURE_DS_01.pbix](./FUTURE_DS_01.pbix)**.
 2.  Open the file in **Microsoft Power BI Desktop**.
 3.  Interact with the slicers (Year, Region, Segment) to filter the data.
 4.  Hover over charts to see custom tooltips with detailed metrics.
